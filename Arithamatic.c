@@ -11,6 +11,7 @@ void main()
     printf("\n Substraction Of a-b is %d",d);
     printf("\n Division Of b/a is %d",e);
     printf("\n Addition Of a*b is %d",f);
+    return 0;
 }
 
 
